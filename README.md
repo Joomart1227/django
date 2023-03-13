@@ -31,4 +31,4 @@ python-decouple
 14. Создать супер-пользователя
 `python3 manage.py createsuperuser`
 15. Запустить сервер 
-`python3 manage.py runserver [port]`
+`python3 manage.py runserver [port]`# django_todo_app
