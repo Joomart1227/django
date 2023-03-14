@@ -6,7 +6,7 @@ class ToDo(models.Model):
         verbose_name='Название',
         max_length=200
     )
-    completed = models.BooleanField(
+    is_completed = models.BooleanField(
         verbose_name='Выполнено ли',
         default=False
     )
